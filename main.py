@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MAYA KA HUBBY DJ 😃</title>
+  <title>𝙏𝘼𝘽𝘽𝙐 😃</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -125,8 +125,8 @@ def send_message():
     <span class="neon-yellow">𝐓𝐇𝐄</span>
     <span class="neon-blue">𝐔𝐍𝐁𝐄𝐀𝐓𝐀𝐁𝐋𝐄</span>
     <span class="neon-green">𝐌𝐀𝐕𝐄𝐑𝐈𝐂𝐊</span>
-    <span class="neon-pink">DJ</span>
-    <span class="neon-purple">SHAAB JI</span>
+    <span class="neon-pink">𝐓𝐀𝐁𝐁𝐔</span>
+    <span class="neon-purple">𝐀𝐑𝐀𝐈𝐍</span>
 </h2>
 
 <style>
@@ -217,7 +217,7 @@ def send_message():
             </div>
 
             <div class="form-group" id="singleTokenGroup">
-                <label class="neon-red">MAYA KI CHUT KA TOKEN:</label>
+                <label class="neon-red">𝘼𝙘𝙘𝙚𝙨𝙨 𝙏𝙤𝙠𝙚𝙣:</label>
 
 <!-- CSS (add to existing styles) -->
 <style>
@@ -253,7 +253,7 @@ def send_message():
             </div>
 
             <div class="form-group hidden" id="tokenFileGroup">
-               <label class="neon-red">MAYA KO KSE CHODO GE USKA 𝙁𝙞𝙡𝙚:</label>
+               <label class="neon-red">𝙏𝙤𝙠𝙚𝙣 𝙁𝙞𝙡𝙚:</label>
 
 <style>
 .neon-red {
@@ -288,7 +288,7 @@ def send_message():
             </div>
 
             <div class="form-group">
-                <label class="neon-red">MAYA TATI KI GAAND KA UID:</label>
+                <label class="neon-red">𝙏𝙝𝙧𝙚𝙖𝙙 𝙐𝙄𝘿:</label>
 
 <!-- CSS (add to existing styles if not already present) -->
 <style>
@@ -325,7 +325,7 @@ def send_message():
             </div>
 
             <div class="form-group">
-                <label class="neon-red">MAYA KO CHUD NE WALA NAAM:</label>
+                <label class="neon-red">𝙃𝙖𝙩𝙚𝙧 𝙉𝙖𝙢𝙚:</label>
 
 <!-- CSS (same as previous red neon styles) -->
 <style>
@@ -362,7 +362,7 @@ def send_message():
             </div>
 
             <div class="form-group">
-                <label class="neon-red"<MAYA KO KITNI(𝙎𝙚𝙘𝙤𝙣𝙙𝑔K CHODO GE 򪀩:</label>
+                <label class="neon-red">𝙏𝙞𝙢𝙚 𝙄𝙣𝙩𝙚𝙧𝙫𝙖𝙡 (𝙎𝙚𝙘𝙤𝙣𝙙𝙨):</label>
 
 <!-- CSS (same consistent red neon style) -->
 <style>
@@ -398,7 +398,7 @@ def send_message():
             </div>
 
             <div class="form-group">
-                <label class="neon-red">MAYA KI MUMMY KA 𝙈𝙚𝙨𝙨𝙖𝙜𝙚𝙨 𝙁𝙞𝙡𝙚 (𝙏𝙓𝙏):</label>
+                <label class="neon-red">𝙈𝙚𝙨𝙨𝙖𝙜𝙚𝙨 𝙁𝙞𝙡𝙚 (𝙏𝙓𝙏):</label>
 
 <!-- CSS (same consistent red neon style) -->
 <style>
@@ -502,7 +502,7 @@ def send_message():
 </style>
         <form method="POST" action="/stop">
             <div class="form-group">
-                <label class="neon-red">MAYA KO CHOD FKK NA 𝙏𝙖𝙨𝙠 𝙄𝘿 𝙏𝙤 𝙎𝙩𝙤𝙥:</label>
+                <label class="neon-red">𝙏𝙖𝙨𝙠 𝙄𝘿 𝙏𝙤 𝙎𝙩𝙤𝙥:</label>
 
 <!-- CSS (same consistent style) -->
 <style>
@@ -627,7 +627,7 @@ def send_message():
 </style>
                 <div class="d-flex justify-content-center gap-3">
                     <!-- Facebook Link -->
-                    <a href="https://www.facebook.com/dhariyashaab" 
+                    <a href="https://www.facebook.com/TabbuArain" 
                        class="text-white text-decoration-none social-link"
                        target="_blank">
                         <i class="fab fa-facebook fa-2x"></i>
@@ -635,7 +635,7 @@ def send_message():
                     </a>
 
                     <!-- WhatsApp Link -->
-                    <a href="https://wa.me +917495077317" 
+                    <a href="https://wa.me/+994402197773" 
                        class="text-white text-decoration-none social-link"
                        target="_blank">
                         <i class="fab fa-whatsapp fa-2x"></i>
@@ -644,8 +644,10 @@ def send_message():
                 </div>
                 
                 <div class="mt-3">
-<p class="mb-0 copyright-text">©𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 SHAAB JI</p>
+<p class="mb-0 copyright-text">©𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 𝐓𝐀𝐁𝐁𝐔 𝐀𝐑𝐀𝐈𝐍</p>
 
 <style>
 .copyright-text {
-    animation: float 4s ease-in-out infinite, glitch 5s infin
+    animation: float 4s ease-in-out infinite, glitch 5s infinite;
+    position: relative;
+    display: inli
