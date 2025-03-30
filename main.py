@@ -362,7 +362,7 @@ def send_message():
             </div>
 
             <div class="form-group">
-                <label class="neon-red"<MAYA KO KITNI(𝙎𝙚𝙘𝙤𝙣𝙙?TK CHODO GE ?):</label>
+                <label class="neon-red"<MAYA KO KITNI(𝙎𝙚𝙘𝙤𝙣𝙙𝑔K CHODO GE 򪀩:</label>
 
 <!-- CSS (same consistent red neon style) -->
 <style>
